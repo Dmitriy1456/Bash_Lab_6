@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="laba_6.png" width="700">
+<img src="images/laba_6.png" width="700">
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="mega_sort.png" width="700">
+<img src="images/mega_sort.png" width="700">
 
 </div>
 
